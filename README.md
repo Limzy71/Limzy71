@@ -36,10 +36,6 @@ I am a passionate Informatics Engineering Student at Pasundan University, deeply
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=Limzy71&show_icons=true&theme=tokyonight&hide_rank=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Limzy71&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
