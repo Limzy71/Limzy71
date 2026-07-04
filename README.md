@@ -6,7 +6,6 @@
 
 ## 🪐 About Me
 
-<!-- Paragraf ini menyesuaikan permintaan bio profesional kamu -->
 I am a passionate Informatics Engineering Student at Pasundan University, deeply focused on crafting clean, efficient, and robust web applications and software solutions.
 
 - 🛠️ Currently deep diving into modern web architectures, back-end logic, and database management systems.
@@ -16,12 +15,16 @@ I am a passionate Informatics Engineering Student at Pasundan University, deeply
 
 ## 🛠️ My Tech Stack
 
-<!-- Bagian ini menggunakan badge warna-warni Shields.io seperti di image_3.png, tapi disesuaikan dengan fokus Web/Software kamu -->
 ### 🚀 Web & Software Development
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.design&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
 
 ### 🧰 Tools & Environments
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -32,37 +35,31 @@ I am a passionate Informatics Engineering Student at Pasundan University, deeply
 
 ## 📊 GitHub Stats
 
-<!-- Bagian ini memunculkan kotak statistik dinamis seperti di image_4.png dan image_3.png -->
 <p align="center">
-  <!-- ⚠️ GANTI 'username-kamu' di bawah ini dengan username GitHub aslimu! ⚠️ -->
-  <img src="https://github-readme-stats.vercel.app/api?username=username-kamu&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Limzy71&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <!-- ⚠️ GANTI 'username-kamu' di bawah ini dengan username GitHub aslimu! ⚠️ -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=username-kamu&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Limzy71&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
 
 ## 🐍 Contribution Snake
 
-<!-- Bagian ini memunculkan animasi ular seperti di image_1.png dan image_4.png -->
 <p align="center">
-  <!-- ⚠️ GANTI 'username-kamu' di kedua tempat di bawah ini! ⚠️ -->
-  <img src="https://raw.githubusercontent.com/username-kamu/username-kamu/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+  <img src="https://raw.githubusercontent.com/Limzy71/Limzy71/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
 </p>
 
 ---
 
 ## 📬 Connect with Me
 
-<!-- Bagian ini menggunakan badge Shields.io untuk sosmed seperti di image_1.png -->
 <p align="center">
-  <a href="https://linkedin.com/in/username-kamu" target="_blank">
+  <a href="https://linkedin.com/in/Limzy71](https://www.linkedin.com/in/la-ode-muh-ikhsan-mbala-508628298" target="_blank">
     <img src="https://img.shields.io/badge/Linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://instagram.com/username-kamu" target="_blank">
+  <a href="https://instagram.com/ikhsanlaode_" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
