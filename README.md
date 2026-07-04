@@ -23,7 +23,7 @@ I am a passionate Informatics Engineering Student at Pasundan University, deeply
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.design&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Java]
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
 
 ### 🧰 Tools & Environments
@@ -56,7 +56,7 @@ I am a passionate Informatics Engineering Student at Pasundan University, deeply
 ## 📬 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/Limzy71](https://www.linkedin.com/in/la-ode-muh-ikhsan-mbala-508628298" target="_blank">
+  <a href="https://www.linkedin.com/in/la-ode-muh-ikhsan-mbala-508628298" target="_blank">
     <img src="https://img.shields.io/badge/Linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://instagram.com/ikhsanlaode_" target="_blank">
