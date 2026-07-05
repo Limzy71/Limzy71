@@ -1,6 +1,6 @@
 # Hi there! I'm Ikhsan 👋
 
-💻 Informatics Engineering Student | 🚀 Web & Software Developer Enthusiast
+💻 Informatics Engineering Student | 🚀 FULL-STACK WEB & MOBILE DEVELOPER | SOFTWARE ENGINEERING
 
 ---
 
