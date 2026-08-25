@@ -45,10 +45,6 @@ I am an **Informatics Engineering Student at Pasundan University**, passionate a
 ### 📊 GitHub Statistics & Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Limzy71&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution Graph" />
-</p>
-
-<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Limzy71&theme=tokyonight" alt="Stats Summary" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Limzy71&theme=tokyonight" alt="Most Commit Language" />
 </p>
